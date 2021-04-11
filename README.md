@@ -1,6 +1,9 @@
 # plant_ui
 
 A new Flutter project.
+![example plant_ui](https://user-images.githubusercontent.com/27766375/114309971-dbb25900-9ac7-11eb-9768-682877d8be52.jpg)
+![plant_ui](https://user-images.githubusercontent.com/27766375/114309974-dce38600-9ac7-11eb-8c6c-0fbcada52a10.jpg)
+
 
 ## Getting Started
 
